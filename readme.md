@@ -125,4 +125,4 @@ d
 d
 d
 
-那么。。。。。
+Creating a new branch is quick and simple.
